@@ -1,0 +1,10 @@
+[package]
+name = "elastic-data-generator"
+version = "0.1.0"
+authors = ["Waldemar Neto <waldemarnt@gmail.com>"]
+
+[dependencies]
+clap = "2.5.2"
+curl = "0.3.0"
+rustc-serialize = "0.3.19"
+chrono = "0.*"
